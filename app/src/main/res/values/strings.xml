@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pokesplash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mfundo Cele</string>
+    <string name="nav_header_subtitle">mfundo@dothething.co.za</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trade</string>
+    <string name="menu_gallery">Portfolio</string>
+    <string name="menu_slideshow">Explore</string>
+
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+    <string name="money">score: 15602 ZAR</string>
+
+</resources>
